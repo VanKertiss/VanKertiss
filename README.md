@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VanKertiss
+- 👋 Hi, I’m @Ivan
 - 👀 I’m interested in HTML, CSS, JS, React, Redux, Figma... Everything related to frontend development
 - 🌱 I’m currently learning in RS School.
 - 📫 How to reach me DulchickIvan@gmail.com
